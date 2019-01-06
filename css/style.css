@@ -13,7 +13,7 @@ h1, h2, h3, p {
 
 .map-container {
   flex: 2;
-  border: 0.35rem solid #31aa40;
+  border: 0.35rem solid #ea272b;
 }
 
 #map {
@@ -22,7 +22,7 @@ h1, h2, h3, p {
 }
 
 .leaflet-popup-content-wrapper {
-  border: 0.25rem #31aa40 solid;
+  border: 0.25rem #ea272b solid;
   border-radius: 0;
   box-shadow: 0 0 0 0;
 }
