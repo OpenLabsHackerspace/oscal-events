@@ -10,7 +10,7 @@
           "labelDirection": "auto",
           "labelHover": false,
           "labelInteractive": false,
-          "color": "Green",
+          "color": "Red",
           "iconClass": "Default",
           "iconUrl": "/uploads/pictogram/star-24-white.png"
         },
