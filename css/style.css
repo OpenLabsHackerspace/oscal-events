@@ -68,15 +68,13 @@ h1, h2, h3, p {
   display: inline-block;
   font-weight: bold;
   text-decoration: none;
-  background-color: #ea272b;
-  color: white;
+  color: #ea272b;
   padding: 1px 2px 0px 2px;
-  border: 1px #ea272b solid;
 }
 
 .event-description a:hover {
   background-color: white;
-  color: #ea272b;
+  color: grey;
 }
 
 .footer {

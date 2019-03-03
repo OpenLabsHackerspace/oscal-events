@@ -11,7 +11,7 @@
           "labelHover": false,
           "labelInteractive": false,
           "color": "Red",
-          "iconClass": "Default",
+          "iconClass": "Drop",
           "iconUrl": "/uploads/pictogram/star-24-white.png"
         },
         "name": "The main venue for the conference",
